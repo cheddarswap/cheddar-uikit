@@ -12,7 +12,7 @@ Cheddar UIkit is a set of React components and hooks used to build pages on Ched
 
 ### Theme
 
-Before using Cheddar UIkit, you need to provide the theme file to styled-component.
+Before using Pancake UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'
